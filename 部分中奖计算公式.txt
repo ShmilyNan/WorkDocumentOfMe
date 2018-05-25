@@ -374,6 +374,18 @@ SUM(N(AND(INT(MID(K2,1,1))<>MODE.SNGL(INT(LEFT(K2,1)),INT(MID(K2,2,1)),INT(MID(K
 
 
 
+花费金额：
+=IF(MID(H11,ROW(1),1)
+	
+)
+
+
+
+
+
+
+
+
 
 
 
