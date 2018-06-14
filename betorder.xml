@@ -12,6 +12,7 @@ xsi:schemaLocation="http://www.w3school.com.cn betorder.xsd">
 		<mutiple></mutiple>
 		<amount></amount>
 		<spend></spend>
+		<resultNum></resultNum>
 		<drawnAmount></drawnAmount>
 		<balance></balance>
 	</order>
@@ -23,6 +24,7 @@ xsi:schemaLocation="http://www.w3school.com.cn betorder.xsd">
 		<mutiple></mutiple>
 		<amount></amount>
 		<spend></spend>
+		<resultNum></resultNum>
 		<drawnAmount></drawnAmount>
 		<balance></balance>
 	</order>
