@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <betorder>
 <!--xmlns="http://www.w3school.com.cn"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.w3school.com.cn betorder.xsd">
 -->
 	<!-- 测试数据-->
-	<order>
+	<order user_id="1">
 		<betRange></betRange>
 		<playType></playType>
 		<betContent></betContent>
@@ -15,9 +15,9 @@ xsi:schemaLocation="http://www.w3school.com.cn betorder.xsd">
 		<resultNum></resultNum>
 		<drawnAmount></drawnAmount>
 		<balance></balance>
-	</order>
+	</order >
 	
-	<order>
+	<order user_id="1">
 		<betRange></betRange>
 		<playType></playType>
 		<betContent></betContent>
