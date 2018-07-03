@@ -5,27 +5,29 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.w3school.com.cn betorder.xsd">
 -->
 	<!-- 测试数据-->
-	<order user_id="1">
+	<order>
 		<betRange></betRange>
 		<playType></playType>
 		<betContent></betContent>
 		<mutiple></mutiple>
 		<amount></amount>
 		<spend></spend>
-		<resultNum></resultNum>
+		<RebateAll></RebateAll>
 		<drawnAmount></drawnAmount>
 		<balance></balance>
+		<resultNum></resultNum>
 	</order >
 	
-	<order user_id="1">
+	<order>
 		<betRange></betRange>
 		<playType></playType>
 		<betContent></betContent>
 		<mutiple></mutiple>
 		<amount></amount>
 		<spend></spend>
-		<resultNum></resultNum>
+		<RebateAll></RebateAll>
 		<drawnAmount></drawnAmount>
 		<balance></balance>
+		<resultNum></resultNum>
 	</order>
 </betorder>
